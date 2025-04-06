@@ -50,7 +50,7 @@ This repository contains independently developed scripts and visualizations for 
 ---
 
 ### Attribution Statement & Disclaimer:
-This repository contains scripts, analyses, and visualizations created independently for academic and educational purposes. The project utilizes publicly available healthcare cybersecurity breach datasets from [HHS OCR Data Breach Portal](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf). All analytical scripts presented here are original creations developed independently with a purpose of creating similar graphs shown in the original hipaa journal[HIPAA Journal](https://www.hipaajournal.com/).
+This repository contains scripts, analyses, and visualizations created independently for academic and educational purposes. The project utilizes publicly available healthcare cybersecurity breach datasets from [HHS OCR Data Breach Portal](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf). All analytical scripts presented here are original creations developed independently with a purpose of creating similar graphs shown in the original [HIPAA Journal](https://www.hipaajournal.com/).
 
 If you have any questions or concerns, please contact prajapatineel258@gmail.com.
 
